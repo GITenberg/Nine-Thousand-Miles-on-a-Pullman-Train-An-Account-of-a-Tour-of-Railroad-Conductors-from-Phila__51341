@@ -1,6 +1,9 @@
 _repo: Nine-Thousand-Miles-on-a-Pullman-Train-An-Account-of-a-Tour-of-Railroad-Conductors-from-Phila__51341
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 9,000 Miles on a Pullman Train
+covers:
+- cover_type: archival
+  image_path: 51341-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaw, Milton M.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46367'
     url: http://www.gutenberg.org/2009/agents/46367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51341#Nine-Thousand-Miles-on-a-Pullman-Train-An-Account-of-a-Tour-of-Railroad-Conductors-from-Phila_
 gutenberg_issued: '2016-03-02'
 gutenberg_type: Text
 identifiers:
